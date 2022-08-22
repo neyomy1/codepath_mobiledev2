@@ -1,7 +1,7 @@
 ## My application
 
 ### App Description
-`The app is a basic mobile app that allows you to change text color in the main page as well as the background color. To some extent, it also allows user to change the text on the screen and input there own using a keyboard that presents itself.
+`The app is a basic android app that allows you to change text color in the main page as well as the background color. To some extent, it also allows user to change the text on the screen and input there own using a keyboard that presents itself.
 
 ### App Walk-though
 `
